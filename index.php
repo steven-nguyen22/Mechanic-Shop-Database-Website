@@ -39,7 +39,6 @@ include "db_connect.php";
   <li><a href="function8.php">8. List Cars Before 1995 With 50,000 Miles</li>
   <li><a href="function9.php">9. List K Cars With The Most Services</li>
   <li><a href="function10.php">10. List Customers In Descending Order Of Their Total Bill</li>
-  <li><a href="function6.php">11. Exit</li> 
 </ol>
 
 <?php
