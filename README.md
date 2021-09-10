@@ -5,7 +5,7 @@ Authors
 
 ## Project Description
 Importance/Interest
-- This project was interesting to me because I just completed a database class and wanted to implement my skills into a project. Creating a website allowed me to learn the front-end of web developement and combine it with my back-end knowledge of databases learned in class. Developing this website made me become more familiar with languages like HTML, PHP, and Javascript. It also allowed me to improve my SQL skills and basic website formatting skills through real life application. 
+- This project was interesting to me because I just completed a database class and wanted to implement my skills into a project. Creating a website allowed me to learn the front-end of web developement and combine it with my back-end knowledge of databases learned in class. Developing this website made me become more familiar with languages like HTML, PHP, and Javascript. It also allowed me to improve my SQL skills and basic website styling skills through real life application. 
 #### Languages, Tools, Technologies 
 - HTML, PHP, Javascript, SQL - Main languages used.  
 - Notepad++ - Main editor used.
