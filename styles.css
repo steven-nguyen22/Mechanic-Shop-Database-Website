@@ -1,0 +1,20 @@
+ol {
+
+}
+
+ol li {
+	list-style: none;
+}
+
+ol li a {
+	text-decoration: none;
+	color: #000000;
+}
+
+ol li a:hover {
+	color: red;
+}
+
+h1 {
+	text-align:center; 
+}
