@@ -13,4 +13,6 @@ Importance/Interest
 #### Input/Output
  - The inputs for this project will be data for the customer, mechanic, car, service request, and closed request tables. The outputs for this project will be the results of this table and futhur queries used to gather specific data. 
  ## Screenshots
+Home Page
+![Home Page](https://github.com/steven-nguyen22/Mechanic-Shop-Database-Website/blob/main/images/home%20page.PNG)
  Link for Screenshots: https://drive.google.com/drive/folders/1Q3KSRLTZshvaFc1ne0WvR-QZugU7lraL?usp=sharing
