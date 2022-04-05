@@ -15,4 +15,12 @@ Importance/Interest
  ## Screenshots
 Home Page
 ![Home Page](https://github.com/steven-nguyen22/Mechanic-Shop-Database-Website/blob/main/images/home%20page.PNG)
- Link for Screenshots: https://drive.google.com/drive/folders/1Q3KSRLTZshvaFc1ne0WvR-QZugU7lraL?usp=sharing
+Add Mechanic Page
+![Add Mechanic Page](https://github.com/steven-nguyen22/Mechanic-Shop-Database-Website/blob/main/images/add%20mechanic.PNG)
+Function 8 Page
+![Function 8 Page](https://github.com/steven-nguyen22/Mechanic-Shop-Database-Website/blob/main/images/cars%20before%201995%20with%2050%2C000%20miles.PNG)
+Mechanic Table
+![Mechanic Table Page](https://github.com/steven-nguyen22/Mechanic-Shop-Database-Website/blob/main/images/mechanic%20table.PNG)
+phpMyAdmin
+![phpMyAdmin Page](https://github.com/steven-nguyen22/Mechanic-Shop-Database-Website/blob/main/images/phpmyadmin.PNG)
+
